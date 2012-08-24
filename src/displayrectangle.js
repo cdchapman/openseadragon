@@ -1,8 +1,7 @@
-
 (function( $ ){
 
 /**
- * A display rectanlge is very similar to the OpenSeadragon.Rect but adds two
+ * A display rectangle is very similar to the OpenSeadragon.Rect but adds two
  * fields, 'minLevel' and 'maxLevel' which denote the supported zoom levels
  * for this rectangle.
  * @class

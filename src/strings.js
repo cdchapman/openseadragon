@@ -1,4 +1,3 @@
-
 (function( $ ){
     
 //TODO: I guess this is where the i18n needs to be reimplemented.  I'll look 

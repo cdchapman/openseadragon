@@ -1,4 +1,3 @@
-
 (function( $ ){
     
 /**
@@ -112,6 +111,5 @@ $.Rect.prototype = {
         "]";
     }
 };
-
 
 }( OpenSeadragon ));

@@ -1,4 +1,3 @@
-
 (function( $ ){
     
 var TIMEOUT             = 5000,

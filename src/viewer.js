@@ -1,4 +1,3 @@
-
 (function( $ ){
      
 // dictionary from hash to private properties
